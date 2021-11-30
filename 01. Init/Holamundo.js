@@ -1,6 +1,6 @@
 function holamundo(){
-     valor1="Hola";
-     valor2=" mundo "
+     valor1="Begin";
+     valor2=" sweet world "
 
     console.log(valor1+valor2+"nuevo");
 }
